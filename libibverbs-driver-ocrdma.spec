@@ -1,12 +1,12 @@
 Summary:	Userspace driver for the Emulex OneConnect RDMA adapters
 Summary(pl.UTF-8):	Sterownik przestrzeni użytkownika dla kart Emulex OneConnect RDMA
 Name:		libibverbs-driver-ocrdma
-Version:	1.0.1
+Version:	1.0.2
 Release:	1
 License:	BSD or GPL v2
 Group:		Libraries
 Source0:	http://www.openfabrics.org/downloads/libocrdma/libocrdma-%{version}.tar.gz
-# Source0-md5:	91e0b951dff108cb63ca4d52c10c2d6d
+# Source0-md5:	5376c285dee71b1bbf54a4c08f6553f6
 URL:		http://openib.org/
 BuildRequires:	libibverbs-devel
 # only checked for, not used
